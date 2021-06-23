@@ -1,0 +1,7 @@
+[{
+	titulo: titulo,
+	descricao: descricao,
+	texto: texto,
+	imagem: imagem,
+	ano: ano
+}]

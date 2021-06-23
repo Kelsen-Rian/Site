@@ -1,0 +1,28 @@
+<contato>
+	<conta>123</conta>
+	<agencia>456</agencia>
+	<tag> info </tag>
+	<nome>ana</nome>
+	<cpf>654.654.987.-78</cpf>
+</contato>
+
+Itálico <i>
+Negrito <b>
+Sublinhado <u>
+Link <a>
+Imagem <img>
+Tabela <caption>
+Listas <dl>
+numeradas <ol>
+não-numeradas <ul>
+Divisórias <div>
+Frames e IFrames <iframes>
+Rótulos semânticos incluídos no HTML5 
+Cabeçalho e rodapé <header> <footer>
+Navegação <nav>
+Seções e Seção principal e Seção a parte <section>
+Artigos <article>
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://1linelayouts.glitch.me/

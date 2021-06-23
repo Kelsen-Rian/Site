@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang=”pt-br”>
+<head>
+	<meta charset=”UTF-8”>
+	<title>Blog de Jogos</title>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Página Inicial</a></li>
+				<li><a href="sobre.html">Sobre</a></li>
+				<li><a href="admin.html">Admin</a>
+					<ul>
+						<li><a href="admin/usuario.html">Usuário</a></li>
+						<li><a href="admin/artigo.html">Artigo</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<h1>Sobre o Desenvolvedor:</h1>
+		<p>Sou Kelsen, cursando tecnico em Informatica e graduando em Licenciatura em Matemática.</p>
+		<h1>Entrar em Contato</h1>
+		<form action="/pagina-processa-dados-do-form" method="post" enctype="multipart/form-data">
+			<div>
+				<label for="nome">Nome:</label>
+				<input type="text" id="nome" name="nome"/>
+			</div>
+			<div>
+				<label for="assunto">Assunto:</label>
+				<input type="text" id="assunto" name="assunto"/>
+			</div>
+			<div>
+				<label for="mensagem">Mensagem:</label>
+				<textarea id="mensagem" name="mensagem"></textarea>
+			</div>
+			<button>Enviar</button>
+		</form>
+	</main>
+	<footer>
+		<p>Desenvolvido por <a href="sobre.html">Kelsen</a>.</p>
+	</footer>
+</body>
+</html>
